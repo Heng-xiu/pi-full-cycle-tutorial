@@ -1,5 +1,7 @@
 # pi-agent Full Cycle Tutorial
 
+![pi-agent Full Cycle](docs/public/cover.png)
+
 A complete, reproducible 15-chapter course that teaches you how to build a production-ready vertical-domain AI agent from scratch — using [earendil-works/pi](https://github.com/earendil-works/pi) as the foundation.
 
 By the end you will have built **`sec-review`**: an autonomous OWASP security code scanner powered by Claude, shipped as an npm library, a standalone Bun binary, and a signed macOS `.dmg`.
