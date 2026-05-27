@@ -1,6 +1,7 @@
 import { defineConfig } from "vitepress";
 
 export default defineConfig({
+  base: "/pi-full-cycle-tutorial/",
   title: "pi-agent Full Cycle",
   description:
     "Build a vertical-domain agent from scratch — local CLI, custom TUI, npm package, macOS DMG",
