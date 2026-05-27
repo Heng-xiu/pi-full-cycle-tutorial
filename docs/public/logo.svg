@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 32" fill="none">
+  <rect width="32" height="32" rx="6" fill="#646cff"/>
+  <text x="16" y="22" text-anchor="middle" font-family="monospace" font-weight="bold" font-size="16" fill="white">π</text>
+  <text x="44" y="21" font-family="monospace" font-weight="bold" font-size="14" fill="#646cff">pi-agent</text>
+</svg>
